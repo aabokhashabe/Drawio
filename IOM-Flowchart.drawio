@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T13:57:19.977Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="8dv-P8ldqPBB2UhX4Ifl" version="14.5.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-04-09T19:08:55.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="T1unvroF5bfIhPJtfbu3" version="14.5.8" type="github" pages="5">
   <diagram name="V2-FINAL" id="oGNKv6tIRiXRoLgTN7U-">
-    <mxGraphModel dx="2844" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="-66" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="GZsHRXkuLhze7F2C351R-0" />
         <mxCell id="GZsHRXkuLhze7F2C351R-1" parent="GZsHRXkuLhze7F2C351R-0" />
@@ -246,7 +246,7 @@
           <mxGeometry x="1228.9399999999998" y="2080" width="323.07" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GZsHRXkuLhze7F2C351R-92" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 19px;&quot;&gt;Missing documents/Information&lt;/span&gt;&lt;br style=&quot;color: rgb(255, 255, 255); font-size: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 19px;&quot;&gt;&amp;nbsp;are requested&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=none;strokeWidth=2;fillColor=#23445D;fontSize=19;fontStyle=1" parent="GZsHRXkuLhze7F2C351R-1" vertex="1">
-          <mxGeometry x="440" y="1520" width="190" height="110" as="geometry" />
+          <mxGeometry x="433.47" y="1520" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="GZsHRXkuLhze7F2C351R-93" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=19;fontColor=#FFFFFF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" parent="GZsHRXkuLhze7F2C351R-1" source="GZsHRXkuLhze7F2C351R-94" target="GZsHRXkuLhze7F2C351R-102" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -286,7 +286,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GZsHRXkuLhze7F2C351R-104" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 19px;&quot;&gt;O-2 RA Uploads the&lt;br style=&quot;font-size: 19px;&quot;&gt;&amp;nbsp;reimbursement documents&lt;/font&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;shadow=1;fontSize=19;fontStyle=0" parent="GZsHRXkuLhze7F2C351R-1" vertex="1">
-          <mxGeometry x="480" y="2820" width="191" height="110" as="geometry" />
+          <mxGeometry x="450" y="2830" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="GZsHRXkuLhze7F2C351R-105" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=19;fontColor=#FFFFFF;fontStyle=1" parent="GZsHRXkuLhze7F2C351R-1" source="GZsHRXkuLhze7F2C351R-106" target="GZsHRXkuLhze7F2C351R-104" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -313,7 +313,7 @@
           <mxGeometry x="1229.99" y="2949.12" width="210.07" height="131.77" as="geometry" />
         </mxCell>
         <mxCell id="GZsHRXkuLhze7F2C351R-115" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 19px;&quot;&gt;Mi-1&lt;br style=&quot;font-size: 19px;&quot;&gt;Reintegration Information&lt;br style=&quot;font-size: 19px;&quot;&gt;&amp;nbsp;- Entry&lt;/font&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;shadow=1;fontSize=19;fontStyle=0" parent="GZsHRXkuLhze7F2C351R-1" vertex="1">
-          <mxGeometry x="1704.5" y="3110" width="205.5" height="74.5" as="geometry" />
+          <mxGeometry x="1697.5" y="3110" width="215.5" height="74.5" as="geometry" />
         </mxCell>
         <mxCell id="GZsHRXkuLhze7F2C351R-116" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 19px;&quot;&gt;Mi-1&lt;/span&gt;&lt;br style=&quot;color: rgb(255, 255, 255); font-size: 19px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 19px;&quot;&gt;MEDA Case &lt;br style=&quot;font-size: 19px;&quot;&gt;/PAMA follow-up&lt;/font&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;shadow=1;fontSize=19;fontStyle=0" parent="GZsHRXkuLhze7F2C351R-1" vertex="1">
           <mxGeometry x="1920" y="3110" width="230" height="74.5" as="geometry" />
